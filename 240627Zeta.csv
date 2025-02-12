@@ -1,0 +1,46 @@
+ref,Sample,Zeta potential / mV,Thickness (nm),MaxPartialCharge,MinPartialCharge,TPSA,NumHAcceptors,NumHDonors,MolLogP
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PBMA ,-28.2,12,0.332602811,-0.462354562,26.3,2,0,1.9058
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PHEMA ,-18.1,16.8,0.332687122,-0.459909612,46.53,3,1,0.098
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PmOEGMA,-6.3,17.9,0.332687275,-0.459899141,63.22,6,0,0.8019
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PMEA ,0.8,19.8,0.329722341,-0.460091245,35.53,3,0,0.362
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PAEMA ,78.7,9.2,0.33282038,-1,53.94,2,1,-3.6484
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PCBMA ,-3.4,19.4,0.332820411,-0.549934244,66.43,4,0,-0.6779
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PMPC ,-0.5,12.49,0.332687504,-0.756117473,84.89,6,0,0.3135
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PMPS,-55.9,18.93,1,-0.747942282,83.5,5,0,-2.955
+https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c02472,PMTAC,45.9,7.3,0.33282041,-1,26.3,2,0,-2.1841
+https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c02472,PMTAC,49.7,11.8,0.33282041,-1,26.3,2,0,-2.1841
+https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c02472,PMTAC,45.4,6.2,0.33282041,-1,26.3,2,0,-2.1841
+https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c02472,PMTAC,45,2.2,0.33282041,-1,26.3,2,0,-2.1841
+https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c02472,PMTAC,53.9,17.6,0.33282041,-1,26.3,2,0,-2.1841
+https://www.tandfonline.com/doi/full/10.1080/09205063.2019.1710900,PAEMA ,23,5.3,0.33282038,-1,53.94,2,1,-3.6484
+https://www.tandfonline.com/doi/full/10.1080/09205063.2019.1710900,PMAA,-48,3.3,0.332668212,-0.481219733,92.7,4,2,0.0867
+https://pubs.acs.org/doi/full/10.1021/acsami.6b01213,PMPC ,-3,5.9,0.332687504,-0.756117473,84.89,6,0,0.3135
+https://pubs.acs.org/doi/full/10.1021/acsami.6b01213,PAEMA ,22,5,0.33282038,-1,53.94,2,1,-3.6484
+https://pubs.acs.org/doi/full/10.1021/la404981k,PMPC,-6.2,23.5,0.332687504,-0.756117473,84.89,6,0,0.3135
+https://pubs.acs.org/doi/full/10.1021/la404981k,PMTAC,66,12.7,0.33282041,-1,26.3,2,0,-2.1841
+https://pubs.acs.org/doi/full/10.1021/la404981k,PMPS,-74,23.3,1,-0.747942282,83.5,5,0,-2.955
+https://pubs.acs.org/doi/full/10.1021/la404981k,PHEMA,-8.2,13.4,0.332687122,-0.459909612,46.53,3,1,0.098
+https://pubs.acs.org/doi/full/10.1021/la404981k,PBMA,-37,21.4,0.332602811,-0.462354562,26.3,2,0,1.9058
+https://www.sciencedirect.com/science/article/pii/S0927776520305610?via%3Dihub,PMPC,-1,14.7,0.332687504,-0.756117473,84.89,6,0,0.3135
+https://www.sciencedirect.com/science/article/pii/S0927776520305610?via%3Dihub,PBMA ,-14,9,0.332602811,-0.462354562,26.3,2,0,1.9058
+https://www.sciencedirect.com/science/article/pii/S0927776520305610?via%3Dihub,PMTAC,19,7.2,0.33282041,-1,26.3,2,0,-2.1841
+https://www.sciencedirect.com/science/article/pii/S0927776520305610?via%3Dihub,PMPS,-35,10.5,1,-0.747942282,83.5,5,0,-2.955
+https://pubs.acs.org/doi/full/10.1021/acs.langmuir.8b04187,PMTAC,43.7,41.3,0.33282041,-1,26.3,2,0,-2.1841
+https://pubs.acs.org/doi/full/10.1021/acs.langmuir.8b04187,PASC8,52.7,52.2,0.332820411,-1,26.3,2,0,0.5466
+https://pubs.acs.org/doi/full/10.1021/acs.langmuir.8b04187,PAGC8,66.2,39.6,0.330355519,-1,26.3,2,0,2.962
+https://pubs.acs.org/doi/full/10.1021/ab500048w,PMPC,0.2,5.6,0.332687504,-0.756117473,84.89,6,0,0.3135
+https://pubs.acs.org/doi/full/10.1021/ab500048w,PHEMA ,-9.8,8.1,0.332687122,-0.459909612,46.53,3,1,0.098
+https://pubs.acs.org/doi/full/10.1021/ab500048w,PMTAC ,47,10,0.33282041,-1,26.3,2,0,-2.1841
+https://pubs.acs.org/doi/full/10.1021/ab500048w,PMPS,-44,11,1,-0.747942282,83.5,5,0,-2.955
+230710,PMMA,-10.1,9.2,0.332326985,-0.465674779,26.3,2,0,0.7355
+230712,PEMA,-9.3,12,0.332592718,-0.462648587,26.3,2,0,1.1256
+230710,PIPMA,-5.8,11.6,0.332592718,-0.462648587,26.3,2,0,1.1256
+230803,PMEOMA,-5.7,28.8,0.332687273,-0.45989944,35.53,3,0,0.7521
+"230511, PR",PDMAPAAm,5.3,25.3,0.242882068,-0.352523603,32.34,2,1,0.2403
+"230515, PR",PDMAAm,-1.7,10.1,0.2449359,-0.345302538,20.31,1,0,0.2606
+"230510, PR",PDEGMA,-1.3,18.3,0.332687275,-0.459899141,44.76,4,0,0.7687
+"230510, PR",PHEMA,-7.6,13.3,0.332687122,-0.459909612,46.53,3,1,0.098
+"2305, PR",PPEMA,-3.7,17.2,0.332728264,-0.49004409,35.53,3,0,2.1847
+2404,PDMAEMA,14.7,13.8,0.332823678,-1,32.2,3,0,-2.4906
+2404,PDEAEMA,13.3,16.6,0.332823681,-1,32.2,3,0,-1.7104
+2404,PDIPAEMA,2.5,19.5,0.332823684,-1,32.2,3,0,-0.9334
