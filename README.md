@@ -7,13 +7,13 @@ Protein Adsorption on Polymer Brushes Models
 More information can be found in the article:
 
 "Machine Learning for Quantitative Prediction of Protein Adsorption on Well-Defined Polymer Brush Surfaces with Diverse Chemical Properties"
-*Langmuir*, 2025, 41, 11, 7534–7545
+*Langmuir*, 2025, 41, 11, 7534–7545.
 DOI: [10.1021/acs.langmuir.4c05151][langmuir]
 
 [langmuir]: https://doi.org/10.1021/acs.langmuir.4c05151
 
 "Explainable Prediction of Hydrophilic/Hydrophobic Property of Polymer Brush Surfaces by Chemical Modeling and Machine Learning"
-*The Journal of Physical Chemistry B*, 2024, 128, 27, 6589–6597
+*The Journal of Physical Chemistry B*, 2024, 128, 27, 6589–6597.
 DOI: [10.1021/acs.jpcb.3c08422][jpcb]
 
 [jpcb]: https://pubs.acs.org/doi/10.1021/acs.jpcb.3c08422
